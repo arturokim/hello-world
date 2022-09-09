@@ -1,5 +1,3 @@
 console.log('hello world')
 
-const addFunction = num => {
-    return num + 2
-}
+const subtractFunction = num => num - 2
